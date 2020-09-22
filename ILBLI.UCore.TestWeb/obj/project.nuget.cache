@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOjDU4yAAQPAU0STazWWbL6Ws9dc+W01kEuiFD/GstlBKOCnvcNyOOBMsdujgCvRWksF3SDY1LSDpHYfbjo1oA==",
+  "success": true,
+  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\ILBLI.UCore.TestWeb\\ILBLI.UCore.TestWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

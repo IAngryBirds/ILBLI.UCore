@@ -1,0 +1,4 @@
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore\Basics\ILBLI.UCore.BasicModel\bin\Debug\netstandard2.0\ILBLI.UCore.BasicModel.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore\Basics\ILBLI.UCore.BasicModel\bin\Debug\netstandard2.0\ILBLI.UCore.BasicModel.dll
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore\Basics\ILBLI.UCore.BasicModel\obj\Debug\netstandard2.0\ILBLI.UCore.BasicModel.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore\Basics\ILBLI.UCore.BasicModel\obj\Debug\netstandard2.0\ILBLI.UCore.BasicModel.AssemblyInfo.cs
