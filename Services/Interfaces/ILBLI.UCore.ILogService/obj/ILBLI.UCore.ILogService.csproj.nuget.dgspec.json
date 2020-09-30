@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj": {}
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj": {}
   },
   "projects": {
-    "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj": {
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj",
+        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj",
         "projectName": "ILBLI.UCore.ILogService",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj",
+        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\ILBLI.UCore.ILogService.csproj",
         "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\obj\\",
+        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Services\\Interfaces\\ILBLI.UCore.ILogService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

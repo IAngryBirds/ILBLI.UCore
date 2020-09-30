@@ -25,6 +25,36 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ILBLI.UCore.BasicModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ILBLI.UCore.BasicModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ILBLI.UCore.BasicModel.dll": {}
+        }
+      },
+      "ILBLI.UCore.IExceptionUnity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ILBLI.UCore.IExceptionUnity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ILBLI.UCore.IExceptionUnity.dll": {}
+        }
+      },
+      "ILBLI.UCore.ILogUnity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ILBLI.UCore.ILogUnity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ILBLI.UCore.ILogUnity.dll": {}
+        }
       }
     }
   },
@@ -171,10 +201,28 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ILBLI.UCore.BasicModel/1.0.0": {
+      "type": "project",
+      "path": "../../../Basics/ILBLI.UCore.BasicModel/ILBLI.UCore.BasicModel.csproj",
+      "msbuildProject": "../../../Basics/ILBLI.UCore.BasicModel/ILBLI.UCore.BasicModel.csproj"
+    },
+    "ILBLI.UCore.IExceptionUnity/1.0.0": {
+      "type": "project",
+      "path": "../../Interfaces/ILBLI.UCore.IExceptionUnity/ILBLI.UCore.IExceptionUnity.csproj",
+      "msbuildProject": "../../Interfaces/ILBLI.UCore.IExceptionUnity/ILBLI.UCore.IExceptionUnity.csproj"
+    },
+    "ILBLI.UCore.ILogUnity/1.0.0": {
+      "type": "project",
+      "path": "../../Interfaces/ILBLI.UCore.ILogUnity/ILBLI.UCore.ILogUnity.csproj",
+      "msbuildProject": "../../Interfaces/ILBLI.UCore.ILogUnity/ILBLI.UCore.ILogUnity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "ILBLI.UCore.BasicModel >= 1.0.0",
+      "ILBLI.UCore.IExceptionUnity >= 1.0.0",
+      "ILBLI.UCore.ILogUnity >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -185,11 +233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj",
+      "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj",
       "projectName": "ILBLI.UCore.ExceptionUnity",
-      "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj",
+      "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj",
       "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-      "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\obj\\",
+      "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -206,7 +254,17 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj": {
+              "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj"
+            },
+            "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IExceptionUnity\\ILBLI.UCore.IExceptionUnity.csproj": {
+              "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IExceptionUnity\\ILBLI.UCore.IExceptionUnity.csproj"
+            },
+            "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj": {
+              "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

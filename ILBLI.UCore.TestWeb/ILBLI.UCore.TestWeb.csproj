@@ -6,8 +6,20 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.TestWeb\ILBLI.UCore.TestWeb.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Unities\Impls\ILBLI.UCore.ExceptionUnity\ILBLI.UCore.ExceptionUnity.csproj" />
+    <ProjectReference Include="..\Unities\Impls\ILBLI.UCore.LogUnity\ILBLI.UCore.LogUnity.csproj" />
+    <ProjectReference Include="..\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\ILBLI.UCore.IExceptionUnity.csproj" />
+    <ProjectReference Include="..\Unities\Interfaces\ILBLI.UCore.ILogUnity\ILBLI.UCore.ILogUnity.csproj" />
+    <ProjectReference Include="..\Unities\UnityCore\ILBLI.UCore.UnityCore.csproj" />
   </ItemGroup>
 
 </Project>

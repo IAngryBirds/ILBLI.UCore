@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axXEttmmbxg84bsjxXwtosngnDPPPtUV0GHI1u1xn79SIIxZ+9q/xTd1DytJSneJOTWa7DYwMQ9dmw5tak69wg==",
+  "dgSpecHash": "WOZZtJzNNF6wo0WhTLwCN7jVNb4uFAxiVIjmXO/vOsenGMv1LJgZTtp5lynLtGs8aYssDHp+1GRmnOy1Rx+CWw==",
   "success": true,
-  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj",
+  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FE5j7dHpHj+Kb0g0NmRRCRhk3T/AqU8uFNoO2+rtGslNfHvjNIKdf4780gpl3w49VpVszK/T2/dQo0dXtPRhQg==",
+  "dgSpecHash": "pAqU/RNRbWu+lgl1ndqp6lBhiVzRUVkPpMkVBVkWPAMZw7bZZveHZ13LNu1Nh2YLPJQsN0JspgFukjBnothLEQ==",
   "success": true,
-  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj",
+  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

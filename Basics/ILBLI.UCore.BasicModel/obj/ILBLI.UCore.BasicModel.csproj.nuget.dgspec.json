@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj": {}
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj": {}
   },
   "projects": {
-    "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj": {
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj",
+        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj",
         "projectName": "ILBLI.UCore.BasicModel",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj",
+        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj",
         "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\obj\\",
+        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
