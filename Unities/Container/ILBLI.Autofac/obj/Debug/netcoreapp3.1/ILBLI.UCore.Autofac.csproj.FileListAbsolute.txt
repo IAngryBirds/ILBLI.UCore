@@ -1,0 +1,14 @@
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.UCore.BasicCommon.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.UCore.ILogUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.UCore.BasicCommon.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.UCore.ILogUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.csproj.CopyComplete
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.UCore.Autofac.csproj.CoreCompileInputs.cache

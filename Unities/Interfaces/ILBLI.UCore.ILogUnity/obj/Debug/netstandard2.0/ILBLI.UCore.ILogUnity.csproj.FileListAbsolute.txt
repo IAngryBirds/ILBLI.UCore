@@ -1,0 +1,9 @@
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.ILogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.pdb

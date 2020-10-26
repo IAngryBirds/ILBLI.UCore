@@ -1,0 +1,9 @@
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\bin\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\bin\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.dll
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\bin\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\obj\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\obj\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\obj\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\obj\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\obj\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.dll
+C:\张杰\GITHUB\ILBLI.UCore\Basics\ILBLI.UCore.BasicCommon\obj\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.pdb

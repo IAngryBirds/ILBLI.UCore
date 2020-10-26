@@ -1,15 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using ILBLI.UCore.ExceptionUnity;
-using ILBLI.UCore.IExceptionUnity;
-using ILBLI.UCore.ILogUnity;
-using ILBLI.UCore.LogUnity;
-using ILBLI.UCore.TestWeb.T1;
+using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
@@ -28,6 +18,13 @@ namespace ILBLI.UCore.TestWeb
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                })
+                //×¢²álog4·þÎñ 
+                .ConfigureLogging((context, loggingBuilder) => {
+                    loggingBuilder.AddFilter("System", LogLevel.Warning);
+                    loggingBuilder.AddFilter("Microsoft", LogLevel.Warning);
+                    loggingBuilder.AddLog4Net();
+                })
+                .UseServiceProviderFactory(new AutofacServiceProviderFactory());
     }
 }

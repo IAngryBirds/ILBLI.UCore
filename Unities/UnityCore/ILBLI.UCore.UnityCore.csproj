@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Logger\log4net.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Logger\log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.9" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="3.1.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Impls\ILBLI.UCore.ExceptionUnity\ILBLI.UCore.ExceptionUnity.csproj" />
+    <ProjectReference Include="..\Impls\ILBLI.UCore.LogUnity\ILBLI.UCore.LogUnity.csproj" />
+    <ProjectReference Include="..\Impls\ILBLI.UCore.RestfulUnity\ILBLI.UCore.RestfulUnity.csproj" />
+    <ProjectReference Include="..\Interfaces\ILBLI.UCore.IExceptionUnity\ILBLI.UCore.IExceptionUnity.csproj" />
+    <ProjectReference Include="..\Interfaces\ILBLI.UCore.ILogUnity\ILBLI.UCore.ILogUnity.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ILBLI.UCore.TestWeb</name>
+    </assembly>
+    <members>
+        <member name="M:ILBLI.UCore.TestWeb.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            添加ConfigureContainer 方法，使用ConfigureContainer访问Autofac容器生成器，并直接向Autofac注册
+            </summary>
+            <param name="builder"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.LogUnity.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.LogUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.LogUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.LogUnity.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.LogUnity.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.LogUnity.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.LogUnity.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.LogUnity.csproj.CopyComplete
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.LogUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.LogUnity\obj\Debug\netstandard2.0\ILBLI.UCore.LogUnity.pdb

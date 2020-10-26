@@ -1,4 +1,5 @@
-﻿using System.Net.Http;
+﻿using System;
+using System.Net.Http;
 
 namespace ILBLI.UCore.BasicModel
 {
@@ -7,5 +8,13 @@ namespace ILBLI.UCore.BasicModel
     /// </summary>
     public class HttpRequestConnectionException : HttpRequestException
     {
+        public HttpRequestConnectionException(string message) : base(message)
+        {
+        }
+
+        public HttpRequestConnectionException(string message,Exception inner) : base(message, inner)
+        {
+
+        }
     }
 }

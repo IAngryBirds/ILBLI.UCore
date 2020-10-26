@@ -1,0 +1,9 @@
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\bin\Debug\netstandard2.0\ILBLI.UCore.LogService.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\bin\Debug\netstandard2.0\ILBLI.UCore.LogService.dll
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\bin\Debug\netstandard2.0\ILBLI.UCore.LogService.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\obj\Debug\netstandard2.0\ILBLI.UCore.LogService.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\obj\Debug\netstandard2.0\ILBLI.UCore.LogService.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\obj\Debug\netstandard2.0\ILBLI.UCore.LogService.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\obj\Debug\netstandard2.0\ILBLI.UCore.LogService.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\obj\Debug\netstandard2.0\ILBLI.UCore.LogService.dll
+C:\张杰\GITHUB\ILBLI.UCore\Services\Impls\ILBLI.UCore.LogService\obj\Debug\netstandard2.0\ILBLI.UCore.LogService.pdb

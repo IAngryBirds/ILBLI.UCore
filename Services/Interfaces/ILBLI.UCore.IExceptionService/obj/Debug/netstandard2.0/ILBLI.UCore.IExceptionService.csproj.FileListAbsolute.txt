@@ -1,0 +1,8 @@
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.dll
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.dll
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.IExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionService.pdb

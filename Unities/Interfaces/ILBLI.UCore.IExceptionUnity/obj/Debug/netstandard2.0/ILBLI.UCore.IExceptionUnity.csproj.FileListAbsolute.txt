@@ -1,0 +1,9 @@
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.pdb

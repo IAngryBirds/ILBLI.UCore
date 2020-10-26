@@ -1,0 +1,16 @@
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.BasicModel.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.BasicModel.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IExceptionUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\bin\Debug\netstandard2.0\ILBLI.UCore.ILogUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.csproj.CopyComplete
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Impls\ILBLI.UCore.ExceptionUnity\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionUnity.pdb

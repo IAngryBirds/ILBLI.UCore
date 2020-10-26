@@ -1,0 +1,12 @@
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\bin\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\bin\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\bin\Debug\netstandard2.0\ILBLI.UCore.BasicCommon.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.csproj.CopyComplete
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.dll
+C:\张杰\GITHUB\ILBLI.UCore\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\obj\Debug\netstandard2.0\ILBLI.UCore.IRestfulUnity.pdb

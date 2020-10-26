@@ -11,15 +11,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="3.1.3" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Unities\Impls\ILBLI.UCore.ExceptionUnity\ILBLI.UCore.ExceptionUnity.csproj" />
-    <ProjectReference Include="..\Unities\Impls\ILBLI.UCore.LogUnity\ILBLI.UCore.LogUnity.csproj" />
-    <ProjectReference Include="..\Unities\Interfaces\ILBLI.UCore.IExceptionUnity\ILBLI.UCore.IExceptionUnity.csproj" />
-    <ProjectReference Include="..\Unities\Interfaces\ILBLI.UCore.ILogUnity\ILBLI.UCore.ILogUnity.csproj" />
+    <ProjectReference Include="..\Basics\ILBLI.UCore.BasicCommon\ILBLI.UCore.BasicCommon.csproj" />
+    <ProjectReference Include="..\Unities\Container\ILBLI.Autofac\ILBLI.UCore.Autofac.csproj" />
+    <ProjectReference Include="..\Unities\Impls\ILBLI.UCore.RestfulUnity\ILBLI.UCore.RestfulUnity.csproj" />
+    <ProjectReference Include="..\Unities\Interfaces\ILBLI.UCore.IRestfulUnity\ILBLI.UCore.IRestfulUnity.csproj" />
     <ProjectReference Include="..\Unities\UnityCore\ILBLI.UCore.UnityCore.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="http://json.schemastore.org/apibuilder.json" /></VisualStudio></ProjectExtensions>
 
 </Project>

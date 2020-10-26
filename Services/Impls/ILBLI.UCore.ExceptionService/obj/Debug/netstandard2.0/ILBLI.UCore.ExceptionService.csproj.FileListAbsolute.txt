@@ -1,0 +1,9 @@
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\bin\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\bin\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.dll
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\bin\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.pdb
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.dll
+C:\张杰\GITHUB\ILBLI.UCore\ILBLI.UCore.ExceptionService\obj\Debug\netstandard2.0\ILBLI.UCore.ExceptionService.pdb

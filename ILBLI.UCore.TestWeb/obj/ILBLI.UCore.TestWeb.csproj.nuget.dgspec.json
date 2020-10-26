@@ -4,6 +4,63 @@
     "C:\\张杰\\GITHUB\\ILBLI.UCore\\ILBLI.UCore.TestWeb\\ILBLI.UCore.TestWeb.csproj": {}
   },
   "projects": {
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj",
+        "projectName": "ILBLI.UCore.BasicCommon",
+        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj",
+        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
+        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -86,17 +143,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj"
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.LogUnity\\ILBLI.UCore.LogUnity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.LogUnity\\ILBLI.UCore.LogUnity.csproj"
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Container\\ILBLI.Autofac\\ILBLI.UCore.Autofac.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Container\\ILBLI.Autofac\\ILBLI.UCore.Autofac.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IExceptionUnity\\ILBLI.UCore.IExceptionUnity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IExceptionUnity\\ILBLI.UCore.IExceptionUnity.csproj"
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\ILBLI.UCore.RestfulUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\ILBLI.UCore.RestfulUnity.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj"
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\ILBLI.UCore.IRestfulUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\ILBLI.UCore.IRestfulUnity.csproj"
               },
               "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\UnityCore\\ILBLI.UCore.UnityCore.csproj": {
                 "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\UnityCore\\ILBLI.UCore.UnityCore.csproj"
@@ -113,6 +170,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
@@ -132,6 +197,85 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Container\\ILBLI.Autofac\\ILBLI.UCore.Autofac.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Container\\ILBLI.Autofac\\ILBLI.UCore.Autofac.csproj",
+        "projectName": "ILBLI.UCore.Autofac",
+        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Container\\ILBLI.Autofac\\ILBLI.UCore.Autofac.csproj",
+        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
+        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Container\\ILBLI.Autofac\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -249,11 +393,85 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\ILBLI.UCore.RestfulUnity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\ILBLI.UCore.RestfulUnity.csproj",
+        "projectName": "ILBLI.UCore.RestfulUnity",
+        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\ILBLI.UCore.RestfulUnity.csproj",
+        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
+        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicModel\\ILBLI.UCore.BasicModel.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\ILBLI.UCore.IRestfulUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\ILBLI.UCore.IRestfulUnity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.9, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -390,6 +608,67 @@
         }
       }
     },
+    "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\ILBLI.UCore.IRestfulUnity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\ILBLI.UCore.IRestfulUnity.csproj",
+        "projectName": "ILBLI.UCore.IRestfulUnity",
+        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\ILBLI.UCore.IRestfulUnity.csproj",
+        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
+        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IRestfulUnity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Basics\\ILBLI.UCore.BasicCommon\\ILBLI.UCore.BasicCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\UnityCore\\ILBLI.UCore.UnityCore.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -414,7 +693,23 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.ExceptionUnity\\ILBLI.UCore.ExceptionUnity.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.LogUnity\\ILBLI.UCore.LogUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.LogUnity\\ILBLI.UCore.LogUnity.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\ILBLI.UCore.RestfulUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Impls\\ILBLI.UCore.RestfulUnity\\ILBLI.UCore.RestfulUnity.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IExceptionUnity\\ILBLI.UCore.IExceptionUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.IExceptionUnity\\ILBLI.UCore.IExceptionUnity.csproj"
+              },
+              "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj": {
+                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.UCore\\Unities\\Interfaces\\ILBLI.UCore.ILogUnity\\ILBLI.UCore.ILogUnity.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -430,9 +725,13 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

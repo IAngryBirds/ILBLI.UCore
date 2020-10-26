@@ -1,0 +1,9 @@
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\bin\Debug\netstandard2.0\ILBLI.UCore.ILogService.deps.json
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\bin\Debug\netstandard2.0\ILBLI.UCore.ILogService.dll
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\bin\Debug\netstandard2.0\ILBLI.UCore.ILogService.pdb
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\obj\Debug\netstandard2.0\ILBLI.UCore.ILogService.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\obj\Debug\netstandard2.0\ILBLI.UCore.ILogService.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\obj\Debug\netstandard2.0\ILBLI.UCore.ILogService.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\obj\Debug\netstandard2.0\ILBLI.UCore.ILogService.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\obj\Debug\netstandard2.0\ILBLI.UCore.ILogService.dll
+C:\张杰\GITHUB\ILBLI.UCore\Services\Interfaces\ILBLI.UCore.ILogService\obj\Debug\netstandard2.0\ILBLI.UCore.ILogService.pdb
